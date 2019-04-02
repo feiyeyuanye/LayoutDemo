@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_love" type="id" />
+    <item name="tv_comment" type="id" />
+    <item name="space_lines" type="id" />
+    <item name="like_layout" type="id" />
+</resources>
